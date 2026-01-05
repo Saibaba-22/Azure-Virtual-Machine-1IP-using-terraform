@@ -1,5 +1,11 @@
 How to install Virtual machine using terraform 
 
+1st open command prompt or power shell
+for cmd : terraform init
+for powershell : .\terraform init
+
+for download supporting files for terraform to execute it based on version you provide
+ 
 1. create provider file and copy paste the code 
 now edit the following details 
 Client id, client secret, tenant id and Subscription ID
