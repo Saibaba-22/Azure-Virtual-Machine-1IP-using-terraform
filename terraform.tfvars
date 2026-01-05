@@ -1,0 +1,13 @@
+rg1_rg1name = "SaiRG1"
+rg1_rg1loc = "Canada Central"
+vnet1_vnetname1 = "SaiVnet1"
+vnet1_vnetloc1 = "Canada Central"
+vnet1_vnet1ip = ["10.3.0.0/16"] 
+sub1_subname = "sub1" 
+sub1_subip = ["10.3.1.0/24"] 
+pip1_name = "vmip" 
+nic1_name = "nic1" 
+nsg1_name = "nsg1" 
+vm1_name = "vm1" 
+username = "SaiAzadmin"
+password = "Password@123"
